@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    background-color: #d77fa1;
+    color: #d6e5fa;
+    padding: 20px;
+}
+
+section{
+    background-color: #fef6fb;
+}
+
+h2{
+    color: #e6b2c6;
+    font-size: 3s0px;
+}
+
+div{
+    margin: 10px;
+
+}
+
+p{
+    /* color: #fef6fb; */
+}
